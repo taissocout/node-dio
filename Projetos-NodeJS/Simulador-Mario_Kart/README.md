@@ -54,7 +54,7 @@ node mario-kart.js
 
 3. **Divirta-se! 🎉**
 
-#### 🎮 Como Jogar
+## 🎮 Como Jogar
 O jogo é totalmente automático! Basta executar e assistir à corrida:
 
 Seleção de Jogadores: O sistema escolhe aleatoriamente 2 dos 6 personagens
@@ -67,20 +67,20 @@ text
 Pontos = Dado (1-6) + Atributo do Personagem
 4. **Resultado Final: O personagem com mais pontos é declarado vencedor!**
 
-**📊 Personagens e Atributos**
-Personagem	Velocidade	Manobrabilidade	Poder	Cor
-Mario	5	4	3	🔴 Vermelho
-Luigi	4	5	3	🟢 Verde
-Peach	4	4	4	💗 Rosa
-Yoshi	5	3	4	🟢 Verde
-Bowser	3	3	5	🔥 Vermelho
-Toad	4	5	3	🔵 Azul
-🏁 Tipos de Bloco
-RETA 🏃: Usa o atributo Velocidade
+## **📊 Personagens e Atributos**
+### Personagem	Velocidade	Manobrabilidade	Poder	Cor
+#### Mario	5	4	3	🔴 Vermelho
+#### Luigi	4	5	3	🟢 Verde
+#### Peach	4	4	4	💗 Rosa
+#### Yoshi	5	3	4	🟢 Verde
+#### Bowser	3	3	5	🔥 Vermelho
+#### Toad	4	5	3	🔵 Azul
+#### 🏁 Tipos de Bloco
+### RETA 🏃: Usa o atributo Velocidade
 
-CURVA 🌀: Usa o atributo Manobrabilidade
+### CURVA 🌀: Usa o atributo Manobrabilidade
 
-CONFRONTO ⚔️: Usa o atributo Poder
+### CONFRONTO ⚔️: Usa o atributo Poder
 
 ## **📝 Exemplo de Execução**
 text
