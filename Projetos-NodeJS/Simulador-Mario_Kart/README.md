@@ -68,13 +68,13 @@ Pontos = Dado (1-6) + Atributo do Personagem
 4. **Resultado Final: O personagem com mais pontos é declarado vencedor!**
 
 ## **📊 Personagens e Atributos**
-### Personagem	Velocidade	Manobrabilidade	Poder	Cor
-#### Mario	5	4	3	🔴 Vermelho
-#### Luigi	4	5	3	🟢 Verde
-#### Peach	4	4	4	💗 Rosa
-#### Yoshi	5	3	4	🟢 Verde
-#### Bowser	3	3	5	🔥 Vermelho
-#### Toad	4	5	3	🔵 Azul
+### Personagem			
+#### Mario	Velocidade 5 | Manobrabilidade 4 | Poder 3 | 🔴 Vermelho
+#### Luigi	Velocidade 4 | Manobrabilidade 5 | Poder 3 | 🟢 Verde
+#### Peach	Velocidade 4 | Manobrabilidade 4 | Poder 4 | 💗 Rosa
+#### Yoshi	Velocidade 5 | Manobrabilidade 3 | Poder 4 | 🟢 Verde
+#### Bowser	Velocidade 3 | Manobrabilidade 3 | Poder 5 | 🔥 Vermelho
+#### Toad	Velocidade 4 | Manobrabilidade 5 | Poder 3 | 🔵 Azul
 #### 🏁 Tipos de Bloco
 ### RETA 🏃: Usa o atributo Velocidade
 
