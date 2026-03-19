@@ -45,12 +45,11 @@ Este é um simulador de Mario Kart desenvolvido em Node.js como parte de um curs
 ### Passo a Passo
 
 1. **Clone o repositório**
-   ```bash
+   
    git clone https://github.com/seu-usuario/mario-kart-simulator.git
    cd mario-kart-simulator
 Execute o simulador
 
-bash
 node mario-kart.js
 Divirta-se! 🎉
 
@@ -166,4 +165,4 @@ Feito com 💚 e JavaScript
 
 ⬆ Voltar ao topo
 
-</div> ```
+</div> 
