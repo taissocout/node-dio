@@ -1,0 +1,12 @@
+{
+  "name": "02-meu-primeiro-projeto",
+  "version": "1.0.0",
+  "description": "Meu primeiro projeto em Node.js, com a DIO.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Taisso Cout",
+  "license": "ISC"
+}
