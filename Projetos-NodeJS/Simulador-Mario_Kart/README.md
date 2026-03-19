@@ -82,7 +82,7 @@ CURVA 🌀: Usa o atributo Manobrabilidade
 
 CONFRONTO ⚔️: Usa o atributo Poder
 
-**📝 Exemplo de Execução**
+## **📝 Exemplo de Execução**
 text
 🏁🏁🏁 MARIO KART SIMULATOR 🏁🏁🏁
 
@@ -107,7 +107,7 @@ Bowser:
 Mario: 42 pontos
 Bowser: 38 pontos
 
-**🎉 O VENCEDOR É MARIO! 🎉**
+## **🎉 O VENCEDOR É MARIO! 🎉**
 🛠️ Tecnologias Utilizadas
 Node.js - Ambiente de execução JavaScript
 
@@ -115,7 +115,7 @@ Cores ANSI - Interface colorida no terminal
 
 JavaScript (ES6+) - Lógica do jogo
 
-**📁 Estrutura do Projeto**
+# **📁 Estrutura do Projeto**
 text
 mario-kart-simulator/
 │
@@ -135,7 +135,7 @@ Salvar histórico de corridas em um arquivo
 
 Criar torneio com vários jogadores
 
-**🤝 Contribuindo**
+## **🤝 Contribuindo**
 Este é um projeto de aprendizado, mas contribuições são bem-vindas!
 
 Faça um fork do projeto
@@ -148,24 +148,24 @@ Push para a branch (git push origin feature/AmazingFeature)
 
 Abra um Pull Request
 
-**📄 Licença**
+# **📄 Licença**
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-**👨‍💻 Autor**
+# **👨‍💻 Autor**
 Taisso Cout - Desenvolvido durante curso de Node.js - GitHub
 
-**🙏 Agradecimentos**
+### **🙏 Agradecimentos**
 Nintendo pela inspiração do Mario Kart
 
 Instrutores do curso de Node.js
 
-**Comunidade open source**
+#### **Comunidade open source**
 
 <div align="center">
 Feito com 💚 e JavaScript
 
 ⬆ Voltar ao topo
 
-O código foi enviado e reajustado com vibe coding para deixar a interface mais bonita no terminal, incluindo cores personalizadas, animações e placar em tempo real.
+##### O código foi enviado e reajustado com vibe coding para deixar a interface mais bonita no terminal, incluindo cores personalizadas, animações e placar em tempo real.
 
 </div> 
