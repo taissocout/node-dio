@@ -166,4 +166,6 @@ Feito com 💚 e JavaScript
 
 ⬆ Voltar ao topo
 
+O código foi enviado e reajustado com vibe coding para deixar a interface mais bonita no terminal, incluindo cores personalizadas, animações e placar em tempo real.
+
 </div> 
