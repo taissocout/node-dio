@@ -1,14 +1,16 @@
 {
-  "name": "",
+  "name": "07-npm-environments",
   "version": "1.0.0",
-  "description": "",
-  "main": "main.js",
+  "description": "Node.js environment variables study project",
+  "main": "src/main.js",
   "type": "module",
   "scripts": {
-    "start": "node --watch src/main.js",
-    "start:watch": "mkdir -p src && cd src && touch main.js && echo 'console.log(\"Watching for changes...\")' && node --watch main.js"
-   },
-  "keywords": [],
+    "setup": "node -e \"const fs=require('fs');fs.mkdirSync('src',{recursive:true});if(!fs.existsSync('src/main.js'))fs.writeFileSync('src/main.js','console.log(\\\"Hello from main.js\\\");\\n');console.log('✅ src/main.js ready');\"",
+    "postinstall": "npm run setup",
+    "start": "node src/main.js",
+    "dev": "node --watch src/main.js"
+  },
+  "keywords": ["nodejs", "npm", "dotenv", "environments"],
   "author": "Taisso Coutinho <taissocout@gmail.com> (https://github.com/taissocout)",
   "license": "MIT"
 }
