@@ -1,0 +1,18 @@
+{
+  "name": "06-npm-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "node src/index.js",
+    "start:watch": "node --watch src/index.js"
+  },
+  "keywords": [],
+  "author": "Taisso Cout <taissocout@gmail.com> (https://github.com/taissocout)",
+  "license": "MIT",
+  "dependencies": {
+    "node": "^20.5.0"
+  }
+}
